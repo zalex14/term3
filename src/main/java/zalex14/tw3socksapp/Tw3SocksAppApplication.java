@@ -8,6 +8,7 @@ public class Tw3SocksAppApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(Tw3SocksAppApplication.class, args);
+        System.out.println("Курсовая работа 3");
     }
 
 }
