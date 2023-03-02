@@ -10,5 +10,4 @@ public class Tw3SocksAppApplication {
         SpringApplication.run(Tw3SocksAppApplication.class, args);
         System.out.println("Курсовая работа 3");
     }
-
 }
